@@ -1,4 +1,4 @@
-# Guide to ECE and CS at CMU
+# Guide to Courses at CMU
 
 Classes at CMU can be hard. This guide is to give some insight on what to
 expect from the core classes from the ECE and CS programs at CMU.
@@ -108,7 +108,10 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [24-784: Trustworthy Intelligent Autonomy](electives/24784.md)
 - [33-114: Physics of Musical Sound](electives/33114.md)
 - [33-120: Science and Science Fiction](electives/33120.md)
+- [57-152B: Harmony I, Section B](electives/57152B.md) 
+- [57-161: Eurhythmics I](electives/57161.md)
 - [57-173: Survey of Western Music History](electives/57173.md)
+- [57-185: Advanced Solfege I](electives/57185.md)
 - [80-180: Nature of Language](electives/80180.md)
 - [80-405: Game Theory](electives/80405.md)
 - [82-137: Chinese Calligraphy: Culture and Skils](electives/82137.md)
